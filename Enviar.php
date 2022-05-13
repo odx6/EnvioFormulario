@@ -1,6 +1,7 @@
 <?
 
-$Destino="mar.ethel@gmail.com";
+//$Destino="mar.ethel@gmail.com";
+$Destino="ever234.ea@gmail.com";
 $Producto=$_POST['Producto'];
 $Importe=$_POST['Importe'];
 $Talla  =$_POST['Talla'];
